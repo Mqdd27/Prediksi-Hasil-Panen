@@ -1,0 +1,7 @@
+keras==3.0.2
+matplotlib==3.8.2
+numpy==1.26.3
+pandas==2.1.4
+protobuf==4.25.2
+scikit_learn==1.4.0
+seaborn==0.13.1
